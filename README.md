@@ -151,4 +151,4 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
  Last Updated on 20/05/2024 18:38:38 UTC
 <!--END_SECTION:waka-->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=prashantkmr38&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=prashantkmr389&theme=dark)](https://git.io/streak-stats)
