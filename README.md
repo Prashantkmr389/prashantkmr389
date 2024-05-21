@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/desikiteretsu_?label=prashantkmr389)](https://x.com/prashantkmr389)
-[![Linkedin: Prashant](https://img.shields.io/badge/-aryan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prashantkmr389/)](https://www.linkedin.com/in/prashantkmr389/)
+[![Linkedin: Prashant](https://img.shields.io/badge/-prashant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prashantkmr389/)](https://www.linkedin.com/in/prashantkmr389/)
 ![GitHub followers](https://img.shields.io/github/followers/prashantkmr389?label=Follow&style=social)
 ![Profile Views](https://komarev.com/ghpvc/?username=prashantkmr389&color=brightgreen&base=1600)
 
