@@ -95,60 +95,6 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-222%20hrs%2021%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                175 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-🌆 Daytime                717 commits         ███████░░░░░░░░░░░░░░░░░░   28.40 % 
-🌃 Evening                1043 commits        ██████████░░░░░░░░░░░░░░░   41.31 % 
-🌙 Night                  590 commits         ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   314 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-Tuesday                  331 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-Wednesday                342 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-Thursday                 229 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-Friday                   502 commits         █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-Saturday                 499 commits         █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
-Sunday                   308 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               25 repos            ████████████████░░░░░░░░░   64.10 % 
-HTML                     6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-```
-
-
-
-
- Last Updated on 20/05/2024 18:38:38 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=prashantkmr389&theme=dark)](https://git.io/streak-stats)
