@@ -95,10 +95,20 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2023%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-575.2%20thousand%20lines%20of%20code-blue)
 
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 26 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
 **I'm an Early 🐤** 
 
 ```text
@@ -128,6 +138,9 @@ Sunday                   29 commits          ████░░░░░░░�
 💬 Programming Languages: 
 No Activity Tracked This Week
 
+🔥 Editors: 
+No Activity Tracked This Week
+
 🐱‍💻 Projects: 
 No Activity Tracked This Week
 ```
@@ -143,8 +156,12 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
+**Timeline**
 
- Last Updated on 22/05/2024 12:05:57 UTC
+![Lines of Code chart](https://raw.githubusercontent.com/Prashantkmr389/Prashantkmr389/main/assets/bar_graph.png)
+
+
+ Last Updated on 22/05/2024 18:39:08 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=prashantkmr389&theme=dark)](https://git.io/streak-stats)
