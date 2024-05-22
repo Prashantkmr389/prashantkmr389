@@ -27,33 +27,33 @@ Here are some ideas to get you started:
  
  I'm looking for a **Junior Developer/Software Engineer Position** to get hands-on experience working in an agile team environment
 
-📫 Reach me at : **prashantkmr389.com**
+📫 Reach me at : **prashantkmr389@gmail.com**
 
 <h1 align="center">SKILLS</h1>
 
 <p align="center"><strong>Coding Languages</strong></p>
 <p align="center">
-  <a href="https://skillicons.dev/icons?i=java,python,javascript,c,cpp,typescript,css,html&theme=dark">
-    <img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp,typescript,css,html&theme=dark" alt="Coding Languages">
+  <a href="https://skillicons.dev/icons?i=python,javascript,c,cpp,typescript,css,html,gol&theme=dark">
+    <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,typescript,css,html,go&theme=dark" alt="Coding Languages">
   </a>
 </p>
-<p align="center">Java, Python, JavaScript, C, C++, Typescript, CSS, HTML</p>
+<p align="center">Python, JavaScript, C, C++, Typescript, CSS, HTML, Go</p>
 
 <p align="center"><strong>Frontend (client side)</strong></p>
 <p align="center">
-  <a href="https://skillicons.dev/icons?i=react,tailwind,materialui,figma&theme=dark">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,materialui,figma&theme=dark" alt="Frontend">
+  <a href="https://skillicons.dev/icons?i=react,tailwind,figma&theme=dark">
+    <img src="https://skillicons.dev/icons?i=react,tailwind,figma&theme=dark" alt="Frontend">
   </a>
 </p>
-<p align="center">React, Tailwind CSS, Material UI, Figma</p>
+<p align="center">React, Tailwind CSS, Figma</p>
 
 <p align="center"><strong>Backend (server side)</strong></p>
 <p align="center">
-  <a href="https://skillicons.dev/icons?i=express,nodejs,fastapi,graphql&theme=dark">
-    <img src="https://skillicons.dev/icons?i=express,nodejs,fastapi,graphql&theme=dark" alt="Backend">
+  <a href="https://skillicons.dev/icons?i=express,nodejs&theme=dark">
+    <img src="https://skillicons.dev/icons?i=express,nodejs&theme=dark" alt="Backend">
   </a>
 </p>
-<p align="center">Express, FastAPI, Node.js, GraphQL, REST APIs</p>
+<p align="center">Express, Node.js, GraphQL, REST APIs</p>
 
 <p align="center"><strong>Databases</strong></p>
 <p align="center">
