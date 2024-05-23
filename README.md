@@ -95,7 +95,7 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-575.2%20thousand%20lines%20of%20code-blue)
 
@@ -103,9 +103,11 @@ Here are some ideas to get you started:
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 28 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 26 Public Repositories 
+> 📜 27 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -136,13 +138,15 @@ Sunday                   29 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 22 mins        █████████████████████████   99.44 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 23 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+stocked                  1 hr 23 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -161,7 +165,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Prashantkmr389/Prashantkmr389/main/assets/bar_graph.png)
 
 
- Last Updated on 22/05/2024 18:39:08 UTC
+ Last Updated on 23/05/2024 18:38:54 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=prashantkmr389&theme=dark)](https://git.io/streak-stats)
