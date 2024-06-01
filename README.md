@@ -14,9 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2>Hey, I am Prashant Kumar, a Full-Stack Engineer</h2>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=:~$%20Junior%20Developer;%20Finance%20Geek;%20Building%20Vestipy;%20Engineer%20by%20Heart;%20Full-Stack%20Web%20Developer;%20Competetive%20Coder)](https://git.io/typing-svg)
+
 <p><em>Pursuing Btech @<a href="https://nitp.ac.in/">NIT Patna
 </em></p>
+
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/desikiteretsu_?label=prashantkmr389)](https://x.com/prashantkmr389)
 [![Linkedin: Prashant](https://img.shields.io/badge/-prashantkmr389-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prashantkmr389/)](https://www.linkedin.com/in/prashantkmr389/)
