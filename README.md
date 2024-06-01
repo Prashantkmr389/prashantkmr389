@@ -14,10 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+```python
+Name= "Prashnat"
+Skills = ['Competetive Coding', 'Full Stack Developer', 'Machine Learning','Finance and Derivatives']
+Currently = "Working on Building Vestipy"
+Experience = "You tell me"
+```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=:~$%20Junior%20Developer;%20Finance%20Geek;%20Building%20Vestipy;%20Engineer%20by%20Heart;%20Full-Stack%20Web%20Developer;%20Competetive%20Coder)](https://git.io/typing-svg)
 
-<p><em>Pursuing Btech @<a href="https://nitp.ac.in/">NIT Patna
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=%20Junior%20Developer;%20Finance%20Geek;%20Building%20Vestipy;%20Engineer%20by%20Heart;%20Full-Stack%20Web%20Developer;%20Competetive%20Coder)](https://git.io/typing-svg)
+
+<p><em>CSE Btech 24 @<a href="https://nitp.ac.in/">NIT Patna
 </em></p>
 
 
