@@ -21,8 +21,24 @@ Here are some ideas to get you started:
 </em></p>
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/desikiteretsu_?label=prashantkmr389)](https://x.com/prashantkmr389)
-[![Linkedin: Prashant](https://img.shields.io/badge/-prashantkmr389-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prashantkmr389/)](https://www.linkedin.com/in/prashantkmr389/)
+<p>
+  <a href="https://instagram.com/prashant_raj.put">
+    <img align="left" alt="Prashant Kumar Instagram" width="34px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" />
+  </a>
+  
+
+  <a href="https://www.linkedin.com/in/prashantkmr389/">
+    <img align="left" alt="Prashant Kumar LinkedIn" width="34px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
+  </a>
+   <a href="https://t.me/prashantkmr">
+    <img align="left" alt="Sandeep V3rma Telegram" width="34px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" />
+  </a>
+
+  
+</p>
+</br>
+</br>
+
 [![Portfolio](https://img.shields.io/badge/-Prashant-red/?label=Portfolio)](https://prashantkmr389-portfolio.vercel.app/)
 ![GitHub followers](https://img.shields.io/github/followers/prashantkmr389?label=Follow&style=social)
 ![Profile Views](https://komarev.com/ghpvc/?username=prashantkmr389&color=brightgreen&base=1600)
