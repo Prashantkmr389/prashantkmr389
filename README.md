@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ```python
-Name= "Prashnat"
+Name = "Prashnat"
+Study = "Btech in CSE NIT Patna 24"
 Skills = ['Competetive Coding', 'Full Stack Developer', 'Machine Learning','Finance and Derivatives']
-Currently = "Working on Building Vestipy"
+Currently = "Building Vestipy"
 Experience = "You tell me"
 ```
 
@@ -37,9 +38,19 @@ Experience = "You tell me"
   <a href="https://www.linkedin.com/in/prashantkmr389/">
     <img align="left" alt="Prashant Kumar LinkedIn" width="34px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
   </a>
+  
+   <a href="https://codeforces.com/profile/prashantkmr389">
+    <img align="left" alt="Sandeep V3rma Telegram" width="100px" src="https://codeforces.org/s/98675/images/codeforces-sponsored-by-ton.png" />
+  </a>
+  
+  <a href="https://leetcode.com/prashantkmr389">
+    <img align="left" alt="Sandeep V3rma Telegram" width="34px" src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo_rvs.png" />
+  </a>
+
    <a href="https://t.me/prashantkmr">
     <img align="left" alt="Sandeep V3rma Telegram" width="34px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" />
   </a>
+  
 
   
 </p>
