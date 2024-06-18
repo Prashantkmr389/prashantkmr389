@@ -206,14 +206,12 @@ C                        1 repo              █░░░░░░░░░░�
 **Timeline**
 
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=prashantkmr389&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox&bg_color=333333" style="height: 33vh;"/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=prashantkmr389&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox&bg_color=333333"/></p>
+
+<p align="center"> <img align="center" width="40%" height="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantkmr389&show_icons=true&count_private=true&theme=algolia&title_color=fefffd&text_color=fefffd&locale=en" alt="prashant" /> <img align="center" width="40%" height="20%" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashantkmr389&exclude_repo=NNCars&show_icons=true&theme=algolia&title_color=fefffd&text_color=fefffd&locale=en&layout=compact" alt="prashantkmr389" />
 </p>
 
-<p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantkmr389&show_icons=true&count_private=true&theme=algolia&title_color=fefffd&text_color=fefffd&locale=en" alt="Prashantkmr389" style="height: 30vh;"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bodhi996&exclude_repo=NNCars&show_icons=true&theme=algolia&title_color=fefffd&text_color=fefffd&locale=en&layout=compact" alt="prashantkmr389" style="height: 30vh;"/>
-</p>
+
 
  Last Updated on 17/06/2024 18:39:16 UTC
 <!--END_SECTION:waka-->
