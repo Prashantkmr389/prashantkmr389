@@ -154,3 +154,28 @@ C                        1 repo              █░░░░░░░░░░�
  Last Updated on 18/06/2024 18:40:35 UTC
 <!--END_SECTION:waka-->
 
+<table>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prashantkmr389&theme=aura_dark" alt="Profile Details Card"/>
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=prashantkmr389&theme=aura_dark" alt="Stats Card"/>
+    </td>
+  </tr>
+</table>
+
+
+
+
+<table style="width: 100%;">
+  <tr>
+    <td align="center" style="padding: 10px; width: 50%;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashantkmr389&show_icons=true&count_private=true&theme=algolia&title_color=fefffd&text_color=fefffd&locale=en" alt="prashant" style="width: 100%; height: auto;" />
+    </td>
+    <td align="center" style="padding: 10px; width: 50%;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prashantkmr389&exclude_repo=NNCars&show_icons=true&theme=algolia&title_color=fefffd&text_color=fefffd&locale=en&layout=compact" alt="prashantkmr389" style="width: 100%; height: auto;" />
+    </td>
+  </tr>
+</table>
+
