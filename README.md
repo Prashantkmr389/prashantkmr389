@@ -74,7 +74,7 @@ Experience = "You tell me"
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-153%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-155%20hrs%2023%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-704.5%20thousand%20lines%20of%20code-blue)
 
@@ -115,14 +115,14 @@ Sunday                   41 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      13 hrs 29 mins      █████████████████████████   100.00 % 
+C++                      13 hrs 53 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 29 mins      █████████████████████████   100.00 % 
+VS Code                  13 hrs 53 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-codeforce                11 hrs 18 mins      █████████████████████░░░░   83.73 % 
-leetcode                 2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
+codeforce                11 hrs 42 mins      █████████████████████░░░░   84.20 % 
+leetcode                 2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -138,7 +138,7 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2024 18:41:35 UTC
+ Last Updated on 10/08/2024 18:39:32 UTC
 <!--END_SECTION:waka-->
 
 <table>
