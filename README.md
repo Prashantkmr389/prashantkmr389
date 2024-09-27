@@ -115,14 +115,13 @@ Sunday                   45 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      6 mins              █████████████████████████   99.74 % 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-React Native             6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -138,7 +137,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2024 18:44:19 UTC
+ Last Updated on 27/09/2024 18:45:14 UTC
 <!--END_SECTION:waka-->
 
 <table>
