@@ -82,8 +82,6 @@ Experience = "You tell me"
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 82 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 33 Public Repositories 
@@ -117,13 +115,13 @@ Sunday                   45 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-React Native             4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -139,7 +137,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/11/2024 18:44:14 UTC
+ Last Updated on 05/11/2024 18:44:20 UTC
 <!--END_SECTION:waka-->
 
 <table>
