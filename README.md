@@ -74,6 +74,8 @@ Experience = "You tell me"
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-184%20hrs%2047%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -86,6 +88,42 @@ Experience = "You tell me"
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                36 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+🌆 Daytime                84 commits          ████████░░░░░░░░░░░░░░░░░   33.60 % 
+🌃 Evening                88 commits          █████████░░░░░░░░░░░░░░░░   35.20 % 
+🌙 Night                  42 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Tuesday                  52 commits          █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
+Wednesday                33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+Thursday                 28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+Friday                   32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+Saturday                 28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+Sunday                   46 commits          █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -99,7 +137,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/12/2024 18:45:18 UTC
+ Last Updated on 02/12/2024 18:48:01 UTC
 <!--END_SECTION:waka-->
 
 <table>
