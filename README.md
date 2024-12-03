@@ -82,6 +82,8 @@ Experience = "You tell me"
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 86 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 35 Public Repositories 
@@ -137,7 +139,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/12/2024 18:48:01 UTC
+ Last Updated on 03/12/2024 18:47:09 UTC
 <!--END_SECTION:waka-->
 
 <table>
