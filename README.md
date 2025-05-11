@@ -74,15 +74,13 @@ Experience = "You tell me"
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-184%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-185%20hrs%2034%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 2 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -117,13 +115,19 @@ Sunday                   45 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     22 mins             ████████████░░░░░░░░░░░░░   49.47 % 
+JavaScript               11 mins             ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
+TypeScript               8 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+Git Config               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   31 mins             █████████████████░░░░░░░░   67.62 % 
+VS Code                  15 mins             ████████░░░░░░░░░░░░░░░░░   32.38 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+frontend                 30 mins             ████████████████░░░░░░░░░   65.51 % 
+stocked                  16 mins             █████████░░░░░░░░░░░░░░░░   34.49 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -139,7 +143,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/05/2025 18:45:00 UTC
+ Last Updated on 11/05/2025 18:45:59 UTC
 <!--END_SECTION:waka-->
 
 <table>
