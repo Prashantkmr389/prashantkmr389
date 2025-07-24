@@ -74,7 +74,7 @@ Experience = "You tell me"
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-210%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-212%20hrs%2046%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
@@ -115,14 +115,14 @@ Sunday                   45 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      23 hrs 46 mins      █████████████████████████   99.95 % 
+C++                      22 hrs 42 mins      █████████████████████████   99.95 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 47 mins      █████████████████████████   100.00 % 
+VS Code                  22 hrs 43 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-prashantkmr389           23 hrs 47 mins      █████████████████████████   100.00 % 
+prashantkmr389           22 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -138,7 +138,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/07/2025 18:54:52 UTC
+ Last Updated on 24/07/2025 18:55:06 UTC
 <!--END_SECTION:waka-->
 
 <table>
