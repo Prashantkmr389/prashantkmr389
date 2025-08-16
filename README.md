@@ -104,8 +104,6 @@ Cloud, DevOps & Databases
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 36 Public Repositories 
@@ -170,7 +168,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/08/2025 18:52:25 UTC
+ Last Updated on 16/08/2025 18:48:32 UTC
 <!--END_SECTION:waka-->
 
 <table>
