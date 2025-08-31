@@ -96,11 +96,15 @@ Cloud, DevOps & Databases
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-256%20hrs%2041%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 3 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -108,6 +112,42 @@ Cloud, DevOps & Databases
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                39 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+🌆 Daytime                92 commits          █████████░░░░░░░░░░░░░░░░   34.59 % 
+🌃 Evening                93 commits          █████████░░░░░░░░░░░░░░░░   34.96 % 
+🌙 Night                  42 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+Tuesday                  55 commits          █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
+Wednesday                33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Thursday                 28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Friday                   34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+Saturday                 31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+Sunday                   54 commits          █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -121,7 +161,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2025 18:45:22 UTC
+ Last Updated on 31/08/2025 18:46:00 UTC
 <!--END_SECTION:waka-->
 
 <table>
