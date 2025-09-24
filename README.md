@@ -96,6 +96,8 @@ Cloud, DevOps & Databases
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-259%20hrs%207%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -123,7 +125,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2025 18:48:47 UTC
+ Last Updated on 24/09/2025 18:47:08 UTC
 <!--END_SECTION:waka-->
 
 <table>
