@@ -96,7 +96,7 @@ Cloud, DevOps & Databases
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-293%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-293%20hrs%2048%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.14%20million%20lines%20of%20code-blue?style=flat)
 
@@ -139,13 +139,16 @@ Sunday                   54 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   10 mins             █████████████████████████   98.62 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  7 mins              ██████████████████░░░░░░░   72.46 % 
+Cursor                   2 mins              ███████░░░░░░░░░░░░░░░░░░   27.54 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Java                     7 mins              ██████████████████░░░░░░░   72.46 % 
+python                   2 mins              ███████░░░░░░░░░░░░░░░░░░   27.54 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -161,7 +164,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/01/2026 19:09:54 UTC
+ Last Updated on 30/01/2026 19:08:53 UTC
 <!--END_SECTION:waka-->
 
 <table>
