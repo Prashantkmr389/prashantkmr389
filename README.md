@@ -139,13 +139,13 @@ Sunday                   54 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Java                     8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -161,7 +161,7 @@ TypeScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 09/02/2026 19:47:07 UTC
+ Last Updated on 10/02/2026 19:39:45 UTC
 <!--END_SECTION:waka-->
 
 <table>
