@@ -96,7 +96,7 @@ Cloud, DevOps & Databases
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-294%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-295%20hrs%2013%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.14%20million%20lines%20of%20code-blue?style=flat)
 
@@ -139,13 +139,17 @@ Sunday                   54 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               35 mins             ███████████████████░░░░░░   75.30 % 
+Markdown                 11 mins             ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   42 mins             ██████████████████████░░░   89.99 % 
+VS Code                  4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+TradeSignalShareExpo     31 mins             ████████████████░░░░░░░░░   65.56 % 
+TradeSignalShareRN       16 mins             █████████░░░░░░░░░░░░░░░░   34.44 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -161,7 +165,7 @@ TypeScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 31/03/2026 19:34:24 UTC
+ Last Updated on 01/04/2026 19:38:34 UTC
 <!--END_SECTION:waka-->
 
 <table>
