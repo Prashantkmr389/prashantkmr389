@@ -96,7 +96,7 @@ Cloud, DevOps & Databases
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-301%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-301%20hrs%2020%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.16%20million%20lines%20of%20code-blue?style=flat)
 
@@ -139,14 +139,14 @@ Sunday                   54 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 30 mins        █████████████████████████   99.98 % 
+TypeScript               1 hr 39 mins        █████████████████████████   99.98 % 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Cursor                   1 hr 30 mins        █████████████████████████   100.00 % 
+Cursor                   1 hr 39 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Learn                    1 hr 30 mins        █████████████████████████   100.00 % 
+Learn                    1 hr 39 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -162,7 +162,7 @@ Swift                    2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 05/05/2026 19:57:49 UTC
+ Last Updated on 06/05/2026 20:10:02 UTC
 <!--END_SECTION:waka-->
 
 <table>
