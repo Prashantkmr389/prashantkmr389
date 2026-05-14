@@ -139,13 +139,13 @@ Sunday                   54 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Java                     17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -161,7 +161,7 @@ Swift                    2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 13/05/2026 20:18:02 UTC
+ Last Updated on 14/05/2026 20:15:31 UTC
 <!--END_SECTION:waka-->
 
 <table>
