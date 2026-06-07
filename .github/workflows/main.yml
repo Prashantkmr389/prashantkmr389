@@ -2,8 +2,8 @@ name: Update Coding Statistics at Readme
 
 on:
   schedule:
-    # Runs at 12am UTC
-    - cron: "30 18 * * *"
+    # Runs at 12:10 pm IST
+    - cron: "10 12 * * *"
   workflow_dispatch:
 
 jobs:
