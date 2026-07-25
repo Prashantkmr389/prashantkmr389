@@ -96,13 +96,15 @@ Cloud, DevOps & Databases
 
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.57%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-335%20hrs-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.76%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 331 Contributions in the Year 2026
+> 🏆 365 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -113,21 +115,21 @@ Cloud, DevOps & Databases
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                217 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-🌆 Daytime                625 commits         █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
-🌃 Evening                1247 commits        ███████████░░░░░░░░░░░░░░   43.53 % 
-🌙 Night                  776 commits         ███████░░░░░░░░░░░░░░░░░░   27.09 % 
+🌞 Morning                229 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+🌆 Daytime                745 commits         ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
+🌃 Evening                1366 commits        ███████████░░░░░░░░░░░░░░   43.26 % 
+🌙 Night                  818 commits         ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   430 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-Tuesday                  564 commits         █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
-Wednesday                889 commits         ████████░░░░░░░░░░░░░░░░░   31.03 % 
-Thursday                 535 commits         █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
-Friday                   48 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-Saturday                 44 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-Sunday                   355 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+Monday                   466 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+Tuesday                  635 commits         █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
+Wednesday                933 commits         ███████░░░░░░░░░░░░░░░░░░   29.54 % 
+Thursday                 611 commits         █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
+Friday                   58 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Saturday                 72 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Sunday                   383 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
 ```
 
 
@@ -137,22 +139,24 @@ Sunday                   355 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 4 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   38.50 % 
-TypeScript               3 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   30.03 % 
-Java                     1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Bash                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-Other                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+Markdown                 5 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   40.84 % 
+TypeScript               3 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   28.75 % 
+Java                     1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+Bash                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+Other                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
 
 🔥 Editors: 
-Cursor                   11 hrs 50 mins      █████████████████████████   99.39 % 
-Antigravity IDE          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Cursor                   11 hrs 51 mins      ███████████████████████░░   91.65 % 
+Claude Code              50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+VS Code                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Antigravity IDE          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 🐱‍💻 Projects: 
-TradeSignalShareExpo     7 hrs 35 mins       ████████████████░░░░░░░░░   63.74 % 
-TradeSignalShareBackend  3 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   29.73 % 
-d884ae04edebef577e82ff7c425 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-tmp                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-terminals                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+TradeSignalShareExpo     8 hrs 24 mins       ████████████████░░░░░░░░░   64.89 % 
+TradeSignalShareBackend  3 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   29.31 % 
+d884ae04edebef577e82ff7c425 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+tmp                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+terminals                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -168,7 +172,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 14:07:13 UTC
+ Last Updated on 25/07/2026 13:58:27 UTC
 <!--END_SECTION:waka-->
 
 <table>
