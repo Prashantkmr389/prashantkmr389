@@ -96,6 +96,10 @@ Cloud, DevOps & Databases
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-350%20hrs%2057%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-44%20hrs%203%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.74%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -137,50 +141,50 @@ Sunday                   628 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 8 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   33.51 % 
-TypeScript               6 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   27.44 % 
-Java                     4 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
-Bash                     1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-JavaScript               1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+Markdown                 8 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   36.28 % 
+TypeScript               5 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
+Java                     3 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+Bash                     1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+JavaScript               1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
 
 🔥 Editors: 
-Cursor                   14 hrs 28 mins      ██████████████░░░░░░░░░░░   57.36 % 
-Claude Code              10 hrs 15 mins      ██████████░░░░░░░░░░░░░░░   40.66 % 
-VS Code                  25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-Antigravity IDE          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Claude Code              11 hrs 37 mins      █████████████░░░░░░░░░░░░   50.09 % 
+Cursor                   10 hrs 43 mins      ████████████░░░░░░░░░░░░░   46.17 % 
+VS Code                  47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+Antigravity IDE          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🐱‍💻 Projects: 
-TradeSignalShareExpo     17 hrs 1 min        █████████████████░░░░░░░░   67.48 % 
-TradeSignalShareBackend  6 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   27.25 % 
-d884ae04edebef577e82ff7c448 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-terminals                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-6.1.1                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+TradeSignalShareExpo     14 hrs 29 mins      ████████████████░░░░░░░░░   62.39 % 
+TradeSignalShareBackend  6 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   28.79 % 
+d884ae04edebef577e82ff7c445 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+equity-research-copilot  45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+terminals                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 6 mins (95.6%)
+⏱ AI Coding Time: 22 hrs 3 mins (95.03%)
 
-✍️ 26,376 lines written by AI, 132 lines written by hand (99.5% AI-written)
+✍️ 23,334 lines written by AI, 140 lines written by hand (99.4% AI-written)
 
-🔤 178,277,448 Input Tokens, 750,809 Output Tokens
+🔤 207,630,401 Input Tokens, 908,121 Output Tokens
 
-💵 $755.17 Estimated AI Cost This Week
+💵 $894.67 Estimated AI Cost This Week
 
-🧠 119 AI Sessions, 351 AI Prompts
+🧠 95 AI Sessions, 316 AI Prompts
 
-Grok                     9,773 lines         ████████████░░░░░░░░░░░░░   47.64 % 
-Opus                     6,188 lines         ████████░░░░░░░░░░░░░░░░░   30.16 % 
-Sonnet                   4,006 lines         █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
-Haiku                    393 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-Gemini                   99 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Opus                     7,627 lines         ██████████░░░░░░░░░░░░░░░   40.20 % 
+Grok                     6,788 lines         █████████░░░░░░░░░░░░░░░░   35.78 % 
+Sonnet                   4,010 lines         █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
+Haiku                    393 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Gemini                   99 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.5% of written lines came from AI
-📚 Verbose Prompter — average 2,825 characters per prompt
+🤖 AI-Driven — 99.4% of written lines came from AI
+📚 Verbose Prompter — average 5,029 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.56% of changed lines were hand-edited
+🚀 High AI Trust — 0.67% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -196,7 +200,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 14:31:59 UTC
+ Last Updated on 29/07/2026 14:29:09 UTC
 <!--END_SECTION:waka-->
 
 <table>
