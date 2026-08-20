@@ -1,4 +1,11 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
+  <img alt="Prashant Kumar's GitHub profile" src="dark_mode.svg">
+</picture>
+
 <div align="center">
+
 
 <a href="https://prashantkmr389-portfolio.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=900&color=36BCF7&center=true&vCenter=true&width=640&height=45&lines=Software+Engineer;Full-Stack+%E2%80%94+TypeScript%2C+React%2C+Node%2C+Java;Building+Vestipy+%26+Trade+Signal+Share;Markets%2C+Finance+%26+Derivatives;Competitive+Programmer" alt="Software Engineer — Full-Stack — Building Vestipy and Trade Signal Share" />
