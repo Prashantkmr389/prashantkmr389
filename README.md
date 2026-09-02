@@ -139,13 +139,13 @@ open_to    = "Full-stack and fintech engineering roles"
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-440%20hrs%2015%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.99%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.00%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 612 Contributions in the Year 2026
+> 🏆 615 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -156,21 +156,21 @@ open_to    = "Full-stack and fintech engineering roles"
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                718 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-🌆 Daytime                4683 commits        ████████░░░░░░░░░░░░░░░░░   30.38 % 
-🌃 Evening                6634 commits        ███████████░░░░░░░░░░░░░░   43.03 % 
-🌙 Night                  3381 commits        █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
+🌞 Morning                724 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+🌆 Daytime                4683 commits        ████████░░░░░░░░░░░░░░░░░   30.36 % 
+🌃 Evening                6636 commits        ███████████░░░░░░░░░░░░░░   43.02 % 
+🌙 Night                  3384 commits        █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   1782 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-Tuesday                  3006 commits        █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
-Wednesday                2474 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-Thursday                 3137 commits        █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
-Friday                   448 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-Saturday                 1766 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-Sunday                   2803 commits        █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Monday                   1784 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+Tuesday                  3009 commits        █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
+Wednesday                2480 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+Thursday                 3137 commits        █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
+Friday                   448 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Saturday                 1766 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+Sunday                   2803 commits        █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
 ```
 
 
@@ -180,25 +180,23 @@ Sunday                   2803 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 6 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   36.70 % 
-TypeScript               3 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
-Other                    2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-Java                     2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-Bash                     1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+Markdown                 7 hrs 14 mins       ███████████░░░░░░░░░░░░░░   44.42 % 
+TypeScript               2 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+Other                    2 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+Bash                     1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+Java                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 43 mins       ████████████░░░░░░░░░░░░░   49.24 % 
-Agent                    5 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   31.98 % 
-Cursor                   2 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-Opencode Cli             16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-Antigravity IDE          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Claude Code              8 hrs 54 mins       ██████████████░░░░░░░░░░░   54.69 % 
+Agent                    5 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   36.71 % 
+Cursor                   55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+Opencode Cli             28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
 
 🐱‍💻 Projects: 
-TradeSignalShareExpo     10 hrs 18 mins      ███████████████░░░░░░░░░░   58.23 % 
-TradeSignalShareBackend  5 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   31.15 % 
-Unknown Project          51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
-equity-research-copilot  45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-coupon-wallet            15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+TradeSignalShareExpo     10 hrs 52 mins      █████████████████░░░░░░░░   66.77 % 
+TradeSignalShareBackend  3 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
+Unknown Project          1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+equity-research-copilot  21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -214,7 +212,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2026 16:37:00 UTC
+ Last Updated on 02/09/2026 16:33:11 UTC
 <!--END_SECTION:waka-->
 
 </details>
