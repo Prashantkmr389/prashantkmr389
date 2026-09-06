@@ -180,22 +180,22 @@ Sunday                   2862 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 7 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   32.53 % 
-TypeScript               4 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
-HTML                     2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-Other                    2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-Bash                     2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+Markdown                 4 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+TypeScript               4 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
+HTML                     2 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Other                    2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+Bash                     2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
 
 🔥 Editors: 
-Claude Code              13 hrs 9 mins       ██████████████░░░░░░░░░░░   56.58 % 
-Agent                    7 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   32.32 % 
-Cursor                   2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Opencode Cli             28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+Claude Code              10 hrs 27 mins      █████████████░░░░░░░░░░░░   53.16 % 
+Agent                    6 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   34.28 % 
+Cursor                   1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+Opencode Cli             28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
 
 🐱‍💻 Projects: 
-TradeSignalShareExpo     18 hrs 28 mins      ████████████████████░░░░░   79.46 % 
-TradeSignalShareBackend  3 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-Unknown Project          51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+TradeSignalShareExpo     15 hrs 44 mins      ████████████████████░░░░░   80.08 % 
+TradeSignalShareBackend  3 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+Unknown Project          51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -211,7 +211,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2026 15:09:32 UTC
+ Last Updated on 06/09/2026 15:26:53 UTC
 <!--END_SECTION:waka-->
 
 </details>
