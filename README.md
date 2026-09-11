@@ -180,21 +180,21 @@ Sunday                   3222 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 44 mins        ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
-Other                    1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
-HTML                     1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
-Bash                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-Markdown                 46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+TypeScript               2 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   41.30 % 
+Other                    1 hr 28 mins        ███████░░░░░░░░░░░░░░░░░░   28.40 % 
+Markdown                 44 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Java                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+SQL                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 36 mins       ███████████████░░░░░░░░░░   61.26 % 
-Agent                    2 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   29.78 % 
-Cursor                   40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+Agent                    2 hrs 38 mins       █████████████░░░░░░░░░░░░   50.93 % 
+Claude Code              2 hrs 22 mins       ███████████░░░░░░░░░░░░░░   45.80 % 
+Cursor                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
 
 🐱‍💻 Projects: 
-TradeSignalShareExpo     6 hrs 12 mins       █████████████████████░░░░   82.49 % 
-TradeSignalShareBackend  1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+TradeSignalShareExpo     3 hrs 45 mins       ██████████████████░░░░░░░   72.46 % 
+TradeSignalShareBackend  1 hr 18 mins        ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
+Unknown Project          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -210,7 +210,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/09/2026 16:24:57 UTC
+ Last Updated on 11/09/2026 16:28:41 UTC
 <!--END_SECTION:waka-->
 
 </details>
