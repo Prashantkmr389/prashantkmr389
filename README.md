@@ -137,7 +137,7 @@ open_to    = "Full-stack and fintech engineering roles"
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-451%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-452%20hrs-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.12%20million%20lines%20of%20code-blue?style=flat)
 
@@ -182,13 +182,13 @@ Sunday                   3222 commits        █████░░░░░░�
 💬 Programming Languages: 
 TypeScript               2 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   41.30 % 
 Other                    1 hr 28 mins        ███████░░░░░░░░░░░░░░░░░░   28.40 % 
-Markdown                 44 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Markdown                 44 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 Java                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
 SQL                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
 
 🔥 Editors: 
 Agent                    2 hrs 38 mins       █████████████░░░░░░░░░░░░   50.93 % 
-Claude Code              2 hrs 22 mins       ███████████░░░░░░░░░░░░░░   45.80 % 
+Claude Code              2 hrs 22 mins       ███████████░░░░░░░░░░░░░░   45.81 % 
 Cursor                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
 
 🐱‍💻 Projects: 
@@ -210,7 +210,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2026 16:28:41 UTC
+ Last Updated on 12/09/2026 15:31:10 UTC
 <!--END_SECTION:waka-->
 
 </details>
