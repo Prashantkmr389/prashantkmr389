@@ -180,20 +180,19 @@ Sunday                   3222 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    51 mins             ████████████████░░░░░░░░░   63.04 % 
-TypeScript               24 mins             ████████░░░░░░░░░░░░░░░░░   30.08 % 
-Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-Java                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Other                    32 mins             █████████████░░░░░░░░░░░░   51.59 % 
+TypeScript               24 mins             ██████████░░░░░░░░░░░░░░░   39.41 % 
+Markdown                 4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+Java                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 
 🔥 Editors: 
-Agent                    57 mins             ██████████████████░░░░░░░   70.94 % 
-Claude Code              22 mins             ███████░░░░░░░░░░░░░░░░░░   27.13 % 
-Cursor                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Agent                    41 mins             █████████████████░░░░░░░░   67.49 % 
+Claude Code              18 mins             ████████░░░░░░░░░░░░░░░░░   30.49 % 
+Cursor                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
 
 🐱‍💻 Projects: 
-TradeSignalShareExpo     1 hr 13 mins        ███████████████████████░░   90.52 % 
-Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-TradeSignalShareBackend  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+TradeSignalShareExpo     58 mins             ████████████████████████░   94.88 % 
+TradeSignalShareBackend  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -209,7 +208,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2026 16:50:08 UTC
+ Last Updated on 17/09/2026 16:57:26 UTC
 <!--END_SECTION:waka-->
 
 </details>
