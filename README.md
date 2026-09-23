@@ -137,7 +137,7 @@ open_to    = "Full-stack and fintech engineering roles"
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-452%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-452%20hrs%202%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.12%20million%20lines%20of%20code-blue?style=flat)
 
@@ -180,18 +180,19 @@ Sunday                   3222 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    7 mins              ███████████████████████░░   90.86 % 
-CSV                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Other                    1 hr 14 mins        █████████████████████████   99.05 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 Editors: 
-Agent                    6 mins              ████████████████████░░░░░   79.77 % 
-Cursor                   1 min               █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
+Agent                    56 mins             ███████████████████░░░░░░   74.41 % 
+Claude Code              17 mins             ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
+Cursor                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 
 🐱‍💻 Projects: 
-TradeSignalShareExpo     7 mins              ████████████████████████░   96.30 % 
-TradeSignalShareBackend  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+TradeSignalShareExpo     1 hr 15 mins        █████████████████████████   99.62 % 
+TradeSignalShareBackend  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -207,7 +208,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2026 16:55:42 UTC
+ Last Updated on 23/09/2026 16:54:20 UTC
 <!--END_SECTION:waka-->
 
 </details>
