@@ -180,20 +180,20 @@ Sunday                   3762 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               3 hrs 9 mins        ████████████░░░░░░░░░░░░░   46.15 % 
-Other                    1 hr 34 mins        ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
-Markdown                 1 hr 29 mins        █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
-JSON                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
-HTML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+TypeScript               3 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   39.43 % 
+Other                    1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
+Markdown                 1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
+JSON                     1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Git Config               38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
 
 🔥 Editors: 
-Agent                    3 hrs 31 mins       █████████████░░░░░░░░░░░░   51.73 % 
-Claude Code              3 hrs 5 mins        ███████████░░░░░░░░░░░░░░   45.34 % 
-Cursor                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+Agent                    5 hrs 1 min         ██████████████░░░░░░░░░░░   56.41 % 
+Claude Code              3 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   40.63 % 
+Cursor                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
 
 🐱‍💻 Projects: 
-TradeSignalShareExpo     6 hrs 43 mins       █████████████████████████   98.61 % 
-TradeSignalShareBackend  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+TradeSignalShareExpo     8 hrs 48 mins       █████████████████████████   98.93 % 
+TradeSignalShareBackend  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -209,7 +209,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2026 16:23:07 UTC
+ Last Updated on 27/09/2026 16:58:41 UTC
 <!--END_SECTION:waka-->
 
 </details>
