@@ -137,7 +137,7 @@ open_to    = "Full-stack and fintech engineering roles"
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-459%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-461%20hrs%2013%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.72%20million%20lines%20of%20code-blue?style=flat)
 
@@ -180,20 +180,20 @@ Sunday                   3863 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               3 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   34.54 % 
-Markdown                 1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
-Other                    1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-JSON                     1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Bash                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+TypeScript               3 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   36.16 % 
+Markdown                 1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+Other                    1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+JSON                     1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+Bash                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
 
 🔥 Editors: 
-Agent                    5 hrs 33 mins       █████████████░░░░░░░░░░░░   51.56 % 
-Claude Code              4 hrs 53 mins       ███████████░░░░░░░░░░░░░░   45.28 % 
-Cursor                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+Agent                    5 hrs 44 mins       █████████████░░░░░░░░░░░░   53.41 % 
+Claude Code              4 hrs 41 mins       ███████████░░░░░░░░░░░░░░   43.72 % 
+Cursor                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 
 🐱‍💻 Projects: 
-TradeSignalShareExpo     9 hrs 14 mins       █████████████████████░░░░   85.67 % 
-TradeSignalShareBackend  1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+TradeSignalShareExpo     9 hrs 11 mins       █████████████████████░░░░   85.64 % 
+TradeSignalShareBackend  1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
 Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 ```
 
@@ -210,7 +210,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2026 19:42:38 UTC
+ Last Updated on 29/09/2026 18:07:57 UTC
 <!--END_SECTION:waka-->
 
 </details>
