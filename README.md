@@ -180,23 +180,22 @@ Sunday                   3863 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      13 mins             █████████░░░░░░░░░░░░░░░░   35.72 % 
-TypeScript               11 mins             ████████░░░░░░░░░░░░░░░░░   30.96 % 
-Bash                     6 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-JSON                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-Java                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+C++                      13 mins             ████████░░░░░░░░░░░░░░░░░   33.48 % 
+TypeScript               11 mins             ███████░░░░░░░░░░░░░░░░░░   29.02 % 
+Bash                     6 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+JSON                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+Other                    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
 
 🔥 Editors: 
-Antigravity IDE          18 mins             █████████████░░░░░░░░░░░░   51.40 % 
-Claude Code              11 mins             ████████░░░░░░░░░░░░░░░░░   30.96 % 
-Cursor                   6 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
+Antigravity IDE          17 mins             ███████████░░░░░░░░░░░░░░   45.79 % 
+Claude Code              14 mins             █████████░░░░░░░░░░░░░░░░   37.55 % 
+Cursor                   6 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
 
 🐱‍💻 Projects: 
-Java                     12 mins             █████████░░░░░░░░░░░░░░░░   34.18 % 
-TradeSignalShareExpo     11 mins             ████████░░░░░░░░░░░░░░░░░   30.96 % 
-TradeSignalShareBackend  6 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
-Unknown Project          5 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-lld-practice             0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+TradeSignalShareExpo     14 mins             █████████░░░░░░░░░░░░░░░░   37.68 % 
+Java                     12 mins             ████████░░░░░░░░░░░░░░░░░   32.04 % 
+TradeSignalShareBackend  6 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+Unknown Project          5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -212,7 +211,7 @@ Swift                    2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2026 18:58:48 UTC
+ Last Updated on 08/10/2026 18:52:53 UTC
 <!--END_SECTION:waka-->
 
 </details>
