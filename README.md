@@ -180,14 +180,14 @@ Sunday                   3932 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    4 mins              █████████████████████████   100.00 % 
+Markdown                 5 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Claude Code              4 mins              ████████████████████████░   94.48 % 
-Cursor                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+Claude Code              2 mins              █████████████░░░░░░░░░░░░   53.47 % 
+Cursor                   2 mins              ████████████░░░░░░░░░░░░░   46.53 % 
 
 🐱‍💻 Projects: 
-TradeSignalShareExpo     4 mins              █████████████████████████   100.00 % 
+TradeSignalShareExpo     5 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -203,7 +203,7 @@ Swift                    2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2026 17:10:43 UTC
+ Last Updated on 23/10/2026 17:03:58 UTC
 <!--END_SECTION:waka-->
 
 </details>
